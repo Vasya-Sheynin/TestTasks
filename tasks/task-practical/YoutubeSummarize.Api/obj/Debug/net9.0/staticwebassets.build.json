@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QUfRTdKhN9bmYhMcQOBODB3yhYv/p02m6zY2ptdiKVc=",
+  "Source": "YoutubeSummarize.Api",
+  "BasePath": "_content/YoutubeSummarize.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

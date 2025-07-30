@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "YoutubeSummarize.Application/1.0.0": {
+        "dependencies": {
+          "YoutubeSummarize.Contracts": "1.0.0",
+          "YoutubeSummarize.Domain": "1.0.0"
+        },
+        "runtime": {
+          "YoutubeSummarize.Application.dll": {}
+        }
+      },
+      "YoutubeSummarize.Contracts/1.0.0": {
+        "runtime": {
+          "YoutubeSummarize.Contracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "YoutubeSummarize.Domain/1.0.0": {
+        "runtime": {
+          "YoutubeSummarize.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YoutubeSummarize.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YoutubeSummarize.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YoutubeSummarize.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

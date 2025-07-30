@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "YoutubeSummarize.Api.Controllers.SummaryController",
+    "Method": "Get",
+    "RelativePath": "api/Summary/{youtubeVideoLink}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "youtubeVideoLink",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

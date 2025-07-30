@@ -1,0 +1,17 @@
+D:\source\cursor demo\YoutubeSummarize.Application\bin\Debug\net9.0\YoutubeSummarize.Application.deps.json
+D:\source\cursor demo\YoutubeSummarize.Application\bin\Debug\net9.0\YoutubeSummarize.Application.dll
+D:\source\cursor demo\YoutubeSummarize.Application\bin\Debug\net9.0\YoutubeSummarize.Application.pdb
+D:\source\cursor demo\YoutubeSummarize.Application\bin\Debug\net9.0\YoutubeSummarize.Contracts.dll
+D:\source\cursor demo\YoutubeSummarize.Application\bin\Debug\net9.0\YoutubeSummarize.Domain.dll
+D:\source\cursor demo\YoutubeSummarize.Application\bin\Debug\net9.0\YoutubeSummarize.Domain.pdb
+D:\source\cursor demo\YoutubeSummarize.Application\bin\Debug\net9.0\YoutubeSummarize.Contracts.pdb
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\YoutubeSummarize.Application.csproj.AssemblyReference.cache
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\YoutubeSummarize.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\YoutubeSummarize.Application.AssemblyInfoInputs.cache
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\YoutubeSummarize.Application.AssemblyInfo.cs
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\YoutubeSummarize.Application.csproj.CoreCompileInputs.cache
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\YoutubeS.66C12C5C.Up2Date
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\YoutubeSummarize.Application.dll
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\refint\YoutubeSummarize.Application.dll
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\YoutubeSummarize.Application.pdb
+D:\source\cursor demo\YoutubeSummarize.Application\obj\Debug\net9.0\ref\YoutubeSummarize.Application.dll

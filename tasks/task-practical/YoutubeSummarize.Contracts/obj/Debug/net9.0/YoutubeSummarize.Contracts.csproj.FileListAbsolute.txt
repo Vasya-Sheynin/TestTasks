@@ -1,0 +1,11 @@
+D:\source\cursor demo\YoutubeSummarize.Contracts\bin\Debug\net9.0\YoutubeSummarize.Contracts.deps.json
+D:\source\cursor demo\YoutubeSummarize.Contracts\bin\Debug\net9.0\YoutubeSummarize.Contracts.dll
+D:\source\cursor demo\YoutubeSummarize.Contracts\bin\Debug\net9.0\YoutubeSummarize.Contracts.pdb
+D:\source\cursor demo\YoutubeSummarize.Contracts\obj\Debug\net9.0\YoutubeSummarize.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\cursor demo\YoutubeSummarize.Contracts\obj\Debug\net9.0\YoutubeSummarize.Contracts.AssemblyInfoInputs.cache
+D:\source\cursor demo\YoutubeSummarize.Contracts\obj\Debug\net9.0\YoutubeSummarize.Contracts.AssemblyInfo.cs
+D:\source\cursor demo\YoutubeSummarize.Contracts\obj\Debug\net9.0\YoutubeSummarize.Contracts.csproj.CoreCompileInputs.cache
+D:\source\cursor demo\YoutubeSummarize.Contracts\obj\Debug\net9.0\YoutubeSummarize.Contracts.dll
+D:\source\cursor demo\YoutubeSummarize.Contracts\obj\Debug\net9.0\refint\YoutubeSummarize.Contracts.dll
+D:\source\cursor demo\YoutubeSummarize.Contracts\obj\Debug\net9.0\YoutubeSummarize.Contracts.pdb
+D:\source\cursor demo\YoutubeSummarize.Contracts\obj\Debug\net9.0\ref\YoutubeSummarize.Contracts.dll

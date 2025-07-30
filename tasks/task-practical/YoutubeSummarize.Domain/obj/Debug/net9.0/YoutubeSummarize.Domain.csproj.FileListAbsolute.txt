@@ -1,0 +1,11 @@
+D:\source\cursor demo\YoutubeSummarize.Domain\bin\Debug\net9.0\YoutubeSummarize.Domain.deps.json
+D:\source\cursor demo\YoutubeSummarize.Domain\bin\Debug\net9.0\YoutubeSummarize.Domain.dll
+D:\source\cursor demo\YoutubeSummarize.Domain\bin\Debug\net9.0\YoutubeSummarize.Domain.pdb
+D:\source\cursor demo\YoutubeSummarize.Domain\obj\Debug\net9.0\YoutubeSummarize.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\cursor demo\YoutubeSummarize.Domain\obj\Debug\net9.0\YoutubeSummarize.Domain.AssemblyInfoInputs.cache
+D:\source\cursor demo\YoutubeSummarize.Domain\obj\Debug\net9.0\YoutubeSummarize.Domain.AssemblyInfo.cs
+D:\source\cursor demo\YoutubeSummarize.Domain\obj\Debug\net9.0\YoutubeSummarize.Domain.csproj.CoreCompileInputs.cache
+D:\source\cursor demo\YoutubeSummarize.Domain\obj\Debug\net9.0\YoutubeSummarize.Domain.dll
+D:\source\cursor demo\YoutubeSummarize.Domain\obj\Debug\net9.0\refint\YoutubeSummarize.Domain.dll
+D:\source\cursor demo\YoutubeSummarize.Domain\obj\Debug\net9.0\YoutubeSummarize.Domain.pdb
+D:\source\cursor demo\YoutubeSummarize.Domain\obj\Debug\net9.0\ref\YoutubeSummarize.Domain.dll
